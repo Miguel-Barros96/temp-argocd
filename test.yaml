@@ -1,0 +1,13 @@
+elements:
+  supermario:
+    - name: supermario
+      namespaces: 
+        - ng
+        - eg
+        - dz
+  test:
+    - name: test
+      namespaces: 
+        - ng
+        - eg
+        - dz
