@@ -2,12 +2,12 @@ elements:
   supermario:
       name: supermario
       namespaces: 
-        - ng
-        - eg
-        - dz
+        - ns: ng
+        - ns: eg
+        - ns: dz
   test:
       name: test
       namespaces: 
-        - ng
-        - eg
-        - dz
+        - ns: ng
+        - ns: eg
+        - ns: dz
