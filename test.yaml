@@ -1,13 +1,13 @@
 elements:
   supermario:
-      name: supermario
-      namespaces: 
-        - ns: ng
-        - ns: eg
-        - ns: dz
+    name: supermario
+    namespaces: 
+      - ns: ng
+      - ns: eg
+      - ns: dz
   test:
-      name: test
-      namespaces: 
-        - ns: ng
-        - ns: eg
-        - ns: dz
+    name: test
+    namespaces: 
+      - ns: ng
+      - ns: eg
+      - ns: dz
